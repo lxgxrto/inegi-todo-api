@@ -1,6 +1,6 @@
 {
   "Todo": {
-    "id": "string"
+    "id": "string",
     "name": "string",
     "complete": "boolean"
   }
